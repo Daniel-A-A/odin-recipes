@@ -1,0 +1,31 @@
+.food_name {
+    color: red;
+}
+
+ul li {
+    background-color: red;
+}
+
+ol li {
+    background-color: #0000ff;
+    color: gray;
+}
+
+p,
+h2,
+h3,
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main_title {
+    font-size: 60px;
+    font-family: Arial;
+}
